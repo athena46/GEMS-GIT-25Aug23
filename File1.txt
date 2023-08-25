@@ -3,3 +3,4 @@ This session is for GEMS.
 
 This file is created to learn about GIT commands.
 Today's Date is 25 August 2023
+Today the session is 10:00 - 5:00
