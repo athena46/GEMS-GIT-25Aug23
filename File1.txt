@@ -1,6 +1,5 @@
 Welcome - to Git session!!!
 This - session is for GEMS. 
-
 This - file is created to learn about GIT commands.
 Today's - Date is 25 August 2023 and today id Friday.....
 Today - the session is 10:00 - 5:00
@@ -13,3 +12,4 @@ function - bug123()
 	//do this to fix CR2
 }
 Working on WI4 implementation
+New feature implemented as per Customer requirements
