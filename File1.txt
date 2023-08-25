@@ -1,2 +1,4 @@
 Welcome to Git session!!!
 This session is for GEMS. 
+
+This file is created to learn about GIT commands.
