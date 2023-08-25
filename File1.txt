@@ -2,11 +2,12 @@ Welcome to Git session!!!
 This session is for GEMS. 
 
 This file is created to learn about GIT commands.
-Today's Date is 25 August 2023
+Today's Date is 25 August 2023 and today id Friday.....
 Today the session is 10:00 - 5:00
 
 
 function bug123()
 {
 	//do something
+	//do this to fix bug456
 }
